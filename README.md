@@ -3,9 +3,9 @@
 
 [![Discord Mine](https://img.shields.io/discord/791818283867045941?label=chat&logo=discord&logoColor=white)](https://discord.gg/AcPpgxctAE)
 [![CodeFactor](https://www.codefactor.io/repository/github/sequitur-studios/cell-machine-mystic-mod/badge)](https://www.codefactor.io/repository/github/sequitur-studios/cell-machine-mystic-mod)
-![Issues](https://img.shields.io/github/issues/Sequitur-Studios/Cell-Machine-Mystic-Mod)
-![Forks](https://img.shields.io/github/forks/Sequitur-Studios/Cell-Machine-Mystic-Mod)
-[![Test project](https://github.com/Sequitur-Studios/Cell-Machine-Mystic-Mod/actions/workflows/tests.yml/badge.svg)](https://github.com/Sequitur-Studios/Cell-Machine-Mystic-Mod/actions/workflows/tests.yml)
+![Issues](https://img.shields.io/github/issues/emir4169/CMMM)
+![Forks](https://img.shields.io/github/forks//emir4169/CMMM)
+[![Test project](https://github.com/emir4169/CMMM/actions/workflows/tests.yml/badge.svg)](https://github.com/Sequitur-Studios/Cell-Machine-Mystic-Mod/actions/workflows/tests.yml)
 
 A game about cellular automata
 
