@@ -17,7 +17,7 @@ A game about cellular automata
 
 ## Contributing
 
-By contributing you awknowledge that you have read and understood the [contributor agreement](https://github.com/Sequitur-Studios/Cell-Machine-Mystic-Mod/blob/master/.github/CONTRIBUTING.md).
+By contributing you awknowledge that you have read and understood the [contributor agreement](https://github.com/Sequitur-Studios/Cell-Machine-Mystic-Mod/blob/master/.github/CONTRIBUTING.md). (you can find the file on the rep if it exists idk i downloaded it from the discord)
 
 ### Requirements
 
@@ -35,7 +35,7 @@ git clone https://github.com/emir4169/CMMM
 
 This repository is licensed under the [Apache 2.0 license](https://github.com/jjblock21/Cell-Machine-Mystic-Mod/blob/master/LICENSE) and also has the [“Commons Clause” license Condition v1.0](https://github.com/jjblock21/Cell-Machine-Mystic-Mod/blob/master/Commons%20Clause%20License).
 
-If you are uncertain about how you can use the project, or you want to use the project in a way not outlined by the license, contact us by email at sequiturstudios@gmail.com or on discord at Mystic#8374 or WorstPacifist#8024
+If you are uncertain about how you can use the project, or you want to use the project in a way not outlined by the license, contact us (CMMM dev team) by email at sequiturstudios@gmail.com or on discord at Mystic#8374 or WorstPacifist#8024
 "# CMMM" 
 
 
