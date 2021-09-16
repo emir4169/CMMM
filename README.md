@@ -13,7 +13,7 @@ A game about cellular automata
 
 - [Get the latest version of game here.](https://themysticlynx.itch.io/cell-machine-mystic-mod)
 - [Get the more recent development builds of the game here](https://github.com/Sequitur-Studios/Cell-Machine-Mystic-Mod/actions/workflows/build.yml) (Build Artifacts).
-
+(NOTE: dont click the "recent dev builds" link it leads u to the private rep which wont work)
 
 ## Contributing
 
@@ -37,7 +37,8 @@ This repository is licensed under the [Apache 2.0 license](https://github.com/jj
 
 If you are uncertain about how you can use the project, or you want to use the project in a way not outlined by the license, contact us by email at sequiturstudios@gmail.com or on discord at Mystic#8374 or WorstPacifist#8024
 "# CMMM" 
-this is an unoffical rep. your not getting the most updated source when a update for 3.X releases idk maybe you will idk
 
 
-NOTE: this is an backup rep for the rep for CMMM 3.X that got private
+this is an unoffical rep. your not getting the most updated source in the rep when a update for 3.X releases idk maybe you will idk maybe when i realize the source is updated
+
+
