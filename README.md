@@ -38,3 +38,6 @@ This repository is licensed under the [Apache 2.0 license](https://github.com/jj
 If you are uncertain about how you can use the project, or you want to use the project in a way not outlined by the license, contact us by email at sequiturstudios@gmail.com or on discord at Mystic#8374 or WorstPacifist#8024
 "# CMMM" 
 this is an unoffical rep. your not getting the most updated source when a update for 3.X releases idk maybe you will idk
+
+
+NOTE: this is an backup rep for the rep for CMMM 3.X that got private
